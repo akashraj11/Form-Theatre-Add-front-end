@@ -1,0 +1,39 @@
+{
+	"email":"akashraj12@gmail.com",
+	"theatres":[
+				{
+				 "theatreId":12,
+				 "theatreName":"Balaji22",
+				 "theatreCity":"Bangalore",
+				 "theatreAddress":"teverakare",
+				 "screenLayout":
+								{      
+								   "category":[
+											   {
+												"type":"gold",
+												"noOfColums":3,
+												"noOfRows":3,
+												"seatLayout":[
+															   {
+																"seatNumber":3
+															   }
+															 ]
+												},
+												{
+													"type":"silver",
+													"noOfColums":2,
+													"noOfRows":2,
+													"seatLayout":[
+																   {
+																	"seatNumber":3
+																   }
+																 ]
+													}
+								   ]
+								 }
+	
+			  }
+			]
+	
+	}
+	
